@@ -68,7 +68,7 @@ First, Google Gemini analyzes an original landscape image and generates a detail
 
 
 
-\## Project Files
+
 ## Project Files
 
 - `main.py` — Image analysis using Gemini AI
@@ -105,5 +105,5 @@ We successfully completed an Image-to-Text-to-Image workflow using Google Gemini
 
 
 
-\*\*Note:\*\* **Note:** The image-generation step was completed using the Pollinations AI web interface with the Z-Image Turbo model. Hugging Face FLUX.1 Schnell was also tested, but image generation was unsuccessful because the account had insufficient inference credits.
+**Note:** The image-generation step was completed using the Pollinations AI web interface with the Z-Image Turbo model. Hugging Face FLUX.1 Schnell was also tested, but image generation was unsuccessful because the account had insufficient inference credits.
 
