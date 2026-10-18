@@ -88,13 +88,15 @@ First, Google Gemini analyzes an original landscape image and generates a detail
 
 \### Original Image
 
-!\[Original Image](input/original.jpg)
+![Original Image](original.jpg)
+
 
 
 
 \### AI-Generated Image
 
-!\[Generated Image](output/generated.jpg)
+
+![Generated Image](generated.jpg)
 
 
 
